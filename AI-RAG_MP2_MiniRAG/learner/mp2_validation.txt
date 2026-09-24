@@ -1,0 +1,42 @@
+Validating 2 questions from predefined_questions.jsonl…
+
+  ✓ q1_red_headed_league_assistant
+      Q: Who was the assistant working at Jabez Wilson's pawnshop, and what was his real identity?
+      Cited: 01_red_headed_league.txt
+      Expected: 01_red_headed_league.txt
+      Facts matched: 1/5
+      Latency: 3047ms
+
+  ✓ q2_speckled_band_murder_weapon
+      Q: What killed Julia Stoner at Stoke Moran, and how was the method discovered?
+      Cited: 02_speckled_band.txt
+      Expected: 02_speckled_band.txt
+      Facts matched: 0/6
+      Latency: 2936ms
+
+  Source-match: 2/2
+
+  Validating 3 questions from learner_questions.jsonl…
+
+  ✓ q1_blue_carbuncle_location_easy
+      Q: Where was the stolen Blue Carbuncle gem found embedded after Peterson brought the goose to his home?
+      Cited: 03_blue_carbuncle.txt
+      Expected: 03_blue_carbuncle.txt
+      Facts matched: 1/4
+      Latency: 2810ms
+
+  ✓ q2_engineer_thumb_escape_medium
+      Q: How did Victor Hatherley manage to escape from the crushing hydraulic press chamber, and what injury did he suffer?
+      Cited: 04_engineers_thumb.txt
+      Expected: 04_engineers_thumb.txt
+      Facts matched: 7/8
+      Latency: 2924ms
+
+  ✓ q3_scandal_bohemia_disguises_hard
+      Q: What two specific disguises did Sherlock Holmes adopt during his investigation of Irene Adler, and what vital discovery or event did he witness or engineer while wearing each?
+      Cited: 05_scandal_in_bohemia.txt
+      Expected: 05_scandal_in_bohemia.txt
+      Facts matched: 1/6
+      Latency: 3949ms
+
+  Source-match: 3/3
