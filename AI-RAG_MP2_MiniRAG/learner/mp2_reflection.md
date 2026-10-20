@@ -23,3 +23,5 @@ or pedagogical — "I didn't realise how much hybrid retrieval was helping
 until I tried dense-only here.")
 
 *With the implementation of RAG approach where context is provided to LLM along with user question, I was surprised to see relevant responses without writing complex system and user prompt. We need not be very elaborate and detailed in instructions to LLM which saves time, reduces iterations while maintaining the quality in output.*
+
+# Deployed project to Github -https://github.com/himanshudwi31/mp1 under folder name "AI-RAG_MP2_MiniRAG"
